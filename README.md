@@ -23,7 +23,7 @@ No final, veremos esses conceitos na prática com os ***Exercícios: Data Wrangl
 
 ## Data Wrangling - Parte 2
 
-Na segunda parte, iremos alguns conceitos mais a fundo que envolvem a manipulação dos dados, tais como: 
+Na segunda parte, iremos conhecer alguns conceitos mais a fundo que envolvem a manipulação dos dados, tais como: 
 
 * Agregação
 * Ordenação 
